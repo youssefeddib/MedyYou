@@ -1,4 +1,4 @@
 package com.medyyou.backend.controller;
 
-public class MedicamentContoller {
+public class StockController {
 }

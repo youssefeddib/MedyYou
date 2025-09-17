@@ -1,4 +1,4 @@
 package com.medyyou.backend.dto;
 
-public class RegisterDTO {
+public class LigneCommandeDTO {
 }

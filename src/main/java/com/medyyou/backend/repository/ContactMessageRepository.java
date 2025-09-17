@@ -1,4 +1,4 @@
 package com.medyyou.backend.repository;
 
-public class MedicamentRepositoy {
+public class ContactMessageRepository {
 }
